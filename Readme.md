@@ -2,7 +2,6 @@
 
 A Breakoutboard for the TTGO 32 MICRO made with KiCAD 
 
-![board](/board.jpg =250x250)
-![schematics](/schematics.jpg =250x250)
-![pcb](/pcb.jpg =250x250)
-
+<img src="https://raw.githubusercontent.com/pauls-3d-things/ttgo-32-micro-breakout-board/master/board.jpg" width="320px">
+<img src="https://raw.githubusercontent.com/pauls-3d-things/ttgo-32-micro-breakout-board/master/schematics.png" width="320px">
+<img src="https://raw.githubusercontent.com/pauls-3d-things/ttgo-32-micro-breakout-board/master/pcb.png" width="320px">
